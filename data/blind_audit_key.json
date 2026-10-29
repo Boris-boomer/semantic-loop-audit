@@ -1,0 +1,242 @@
+{
+  "C01": {
+    "cell": "01",
+    "iid": "networkx__networkx-5394",
+    "end": 20
+  },
+  "C02": {
+    "cell": "01",
+    "iid": "pydantic__pydantic-2176",
+    "end": 30
+  },
+  "C03": {
+    "cell": "00",
+    "iid": "SAP__python-pyodata-232",
+    "end": 30
+  },
+  "C04": {
+    "cell": "10",
+    "iid": "RDFLib__rdflib-1012",
+    "end": 20
+  },
+  "C05": {
+    "cell": "00",
+    "iid": "iterative__dvc-5362",
+    "end": 55
+  },
+  "C06": {
+    "cell": "01",
+    "iid": "macbre__sql-metadata-316",
+    "end": 20
+  },
+  "C07": {
+    "cell": "11",
+    "iid": "networkx__networkx-5394",
+    "end": 40
+  },
+  "C08": {
+    "cell": "11",
+    "iid": "DCC-Lab__RayTracing-202",
+    "end": 25
+  },
+  "C09": {
+    "cell": "11",
+    "iid": "pydicom__pydicom-901",
+    "end": 40
+  },
+  "C10": {
+    "cell": "10",
+    "iid": "nipy__heudiconv-523",
+    "end": 15
+  },
+  "C11": {
+    "cell": "01",
+    "iid": "MycroftAI__lingua-franca-226",
+    "end": 45
+  },
+  "C12": {
+    "cell": "00",
+    "iid": "wireservice__agate-excel-25",
+    "end": 25
+  },
+  "C13": {
+    "cell": "01",
+    "iid": "asottile__pyupgrade-217",
+    "end": 195
+  },
+  "C14": {
+    "cell": "01",
+    "iid": "iterative__dvc-8251",
+    "end": 25
+  },
+  "C15": {
+    "cell": "01",
+    "iid": "iterative__dvc-3329",
+    "end": 20
+  },
+  "C16": {
+    "cell": "00",
+    "iid": "beetbox__confuse-97",
+    "end": 40
+  },
+  "C17": {
+    "cell": "11",
+    "iid": "paver__paver-174",
+    "end": 30
+  },
+  "C18": {
+    "cell": "10",
+    "iid": "pydantic__pydantic-3176",
+    "end": 25
+  },
+  "C19": {
+    "cell": "01",
+    "iid": "zopefoundation__persistent-161",
+    "end": 15
+  },
+  "C20": {
+    "cell": "00",
+    "iid": "praw-dev__praw-1960",
+    "end": 45
+  },
+  "C21": {
+    "cell": "11",
+    "iid": "pydantic__pydantic-4963",
+    "end": 45
+  },
+  "C22": {
+    "cell": "10",
+    "iid": "pydantic__pydantic-1210",
+    "end": 45
+  },
+  "C23": {
+    "cell": "10",
+    "iid": "tobymao__sqlglot-1703",
+    "end": 15
+  },
+  "C24": {
+    "cell": "10",
+    "iid": "pydantic__pydantic-2618",
+    "end": 25
+  },
+  "C25": {
+    "cell": "11",
+    "iid": "awisu2__imagenatepy-3",
+    "end": 35
+  },
+  "C26": {
+    "cell": "00",
+    "iid": "asottile__pyupgrade-120",
+    "end": 50
+  },
+  "C27": {
+    "cell": "11",
+    "iid": "airspeed-velocity__asv-733",
+    "end": 25
+  },
+  "C28": {
+    "cell": "00",
+    "iid": "cunla__fakeredis-py-127",
+    "end": 85
+  },
+  "C29": {
+    "cell": "11",
+    "iid": "hylang__hy-2423",
+    "end": 35
+  },
+  "C30": {
+    "cell": "11",
+    "iid": "iterative__dvc-3299",
+    "end": 50
+  },
+  "C31": {
+    "cell": "10",
+    "iid": "sclorg__spec2scl-22",
+    "end": 20
+  },
+  "C32": {
+    "cell": "01",
+    "iid": "joke2k__faker-1569",
+    "end": 35
+  },
+  "C33": {
+    "cell": "10",
+    "iid": "pydantic__pydantic-625",
+    "end": 20
+  },
+  "C34": {
+    "cell": "10",
+    "iid": "just-work__fffw-68",
+    "end": 15
+  },
+  "C35": {
+    "cell": "00",
+    "iid": "iterative__dvc-8251",
+    "end": 35
+  },
+  "C36": {
+    "cell": "01",
+    "iid": "scikit-hep__particle-494",
+    "end": 15
+  },
+  "C37": {
+    "cell": "00",
+    "iid": "internap__python-hostsresolver-5",
+    "end": 115
+  },
+  "C38": {
+    "cell": "01",
+    "iid": "dwavesystems__dwave-cloud-client-417",
+    "end": 85
+  },
+  "C39": {
+    "cell": "00",
+    "iid": "erikrose__parsimonious-211",
+    "end": 30
+  },
+  "C40": {
+    "cell": "01",
+    "iid": "3YOURMIND__django-migration-linter-47",
+    "end": 30
+  },
+  "C41": {
+    "cell": "00",
+    "iid": "3YOURMIND__django-migration-linter-47",
+    "end": 20
+  },
+  "C42": {
+    "cell": "10",
+    "iid": "atscub__nautapy-10",
+    "end": 20
+  },
+  "C43": {
+    "cell": "10",
+    "iid": "Pylons__webob-372",
+    "end": 20
+  },
+  "C44": {
+    "cell": "10",
+    "iid": "lark-parser__lark-650",
+    "end": 35
+  },
+  "C45": {
+    "cell": "11",
+    "iid": "pydantic__pydantic-3176",
+    "end": 35
+  },
+  "C46": {
+    "cell": "11",
+    "iid": "getnikola__nikola-3504",
+    "end": 20
+  },
+  "C47": {
+    "cell": "00",
+    "iid": "zalando-stups__senza-397",
+    "end": 15
+  },
+  "C48": {
+    "cell": "11",
+    "iid": "sclorg__spec2scl-22",
+    "end": 30
+  }
+}
